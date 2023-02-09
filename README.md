@@ -15,3 +15,5 @@
 
 .zip
 
+radix -система исчисления (двоичная и тп)
+String(Int, radix: Int)
